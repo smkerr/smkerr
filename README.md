@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smkerr
-- 📍🌉 I'm originally from the San Francisco Bay Area
+- 📍 I'm originally from the San Francisco Bay Area
 - 🧑‍💻📚 I'm currently pursuing my MSc in Data Science at the Hertie School in Berlin
 - 👀 I'm interested in using data science to evaluate policy
 - 🌱 I'm currently learning everything there is to know about R & Python
