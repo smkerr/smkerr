@@ -1,5 +1,5 @@
 📍 California ☀️ -> Berlin 🌧️
 
-🎓 MSc Data Science for Public Policy candidate at the Hertie School
+🎓 MSc Data Science for Public Policy from the Hertie School
 
 👨‍💻 CPC Analytics
